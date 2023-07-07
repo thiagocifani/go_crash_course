@@ -12,6 +12,8 @@ func main() {
 		i++
 	}
 
+	//testing new gitconfig
+
 	// Short method
 
 	for i := 1; i <= 10; i++ {
